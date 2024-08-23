@@ -47,7 +47,7 @@ Weather Dashboard is a React-based web application that allows users to check we
 
 ## Project Structure
 
-````bash
+```bash
 weather-dashboard/
 ├── public/
 ├── src/
@@ -66,5 +66,4 @@ weather-dashboard/
 ├── .env
 ├── package.json
 └── README.md
-```bash
-````
+```
